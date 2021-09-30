@@ -1358,7 +1358,7 @@ foreach@^2.0.5:
   resolved "https://registry.yarnpkg.com/foreach/-/foreach-2.0.5.tgz#0bee005018aeb260d0a3af3ae658dd0136ec1b99"
   integrity sha1-C+4AUBiusmDQo6865ljdATbsG5k=
 
-framer-motion@^5.0.0-beta.36:
+framer-motion@5.0.0-beta.36:
   version "5.0.0-beta.36"
   resolved "https://registry.yarnpkg.com/framer-motion/-/framer-motion-5.0.0-beta.36.tgz#aa176d9eaed329d21c624b9f52f38170868236e1"
   integrity sha512-d8i2wl+T9RMpW1Z6Q219gmiiLxphaWRjpLNF8WIy5kLmwutKnzycTUoW5np0Az59hiUviGd1iQxLM3HUXWgYeA==
@@ -1371,10 +1371,10 @@ framer-motion@^5.0.0-beta.36:
   optionalDependencies:
     "@emotion/is-prop-valid" "^0.8.2"
 
-framer@^2.0.0-beta.7:
-  version "2.0.0-beta.7"
-  resolved "https://registry.yarnpkg.com/framer/-/framer-2.0.0-beta.7.tgz#00fdb67cb9746c2003c2f9901718fa5a8c3669af"
-  integrity sha512-/p9xqWgz2G9pu0wmJNlg76dIMjgQNIG8VU4RvwVF2EaNBrkBUGyxzxP2X5itrnvbq/HlshuFb3Ku5jT0P/jeGw==
+framer@^2.0.0-beta.12:
+  version "2.0.0-beta.12"
+  resolved "https://registry.yarnpkg.com/framer/-/framer-2.0.0-beta.12.tgz#372a5677a15ad645b6026d84ab00881ae06efdeb"
+  integrity sha512-rrw5kbHfBR5JDokLkHiGvWpy6sHC5xA09E4DlOj4f2hjHajSNBe5kbMcphsc0SOleSet70OjhawkMpZyL0QBTw==
   dependencies:
     "@juggle/resize-observer" "^3.3.1"
     eventemitter3 "^3.1.0"
