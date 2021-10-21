@@ -1,1 +1,0 @@
-export { default } from "/npm:twemoji@13.1.0!cjs";
