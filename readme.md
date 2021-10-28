@@ -13,6 +13,11 @@ yarn run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result. You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
+## Deploy your own
+Deploy the boilerplate project using [Vercel](https://vercel.com):
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fframer%2Fnext.js&project-name=framer-nextjs&repo-name=framer-nextjs)
+
 ## Handshake
 
 [Framer](https://www.framer.com/) is a canvas based interactive design tool that helps you quickly design interactive components, from buttons to hero animations to cards and much more.
